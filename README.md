@@ -1,2 +1,2 @@
 # Asembler PIC
- Ejemplos lenguaje emsamblador
+ Ejemplos lenguaje ensamblador
